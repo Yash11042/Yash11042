@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yash11042.
-- 👀 I’m interested in learning new things.
+- 👀 I’m interested in reading books,watching movies and web series and i love solving problems.
 - 🌱 I’m currently learning Python,Data Analysis,and visulaization tools like,Power BI and Python Libraries like Pandas,Numpys,Matplotlib,Seaborn,and also visulaization on excel Excel,and collebrative use AI in creating dashboards
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me..??.. you can mail me at tiwariyash7000@gmail.com.
