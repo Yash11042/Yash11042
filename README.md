@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Yash11042.
-- 👀 I’m interested in reading books,watching movies and web series and i love solving problems.
-- 🌱 I’m currently learning Python,Data Analysis,and visulaization tools like,Power BI and Python Libraries like Pandas,Numpys,Matplotlib,Seaborn,and also visulaization on excel Excel,and collebrative use AI in creating dashboards
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me..??.. you can mail me at tiwariyash7000@gmail.com.
-- 😄 Pronouns: he/his.
-- ⚡ Fun fact: I am Batman.
+Hi there! I'm Yash Tiwari, a passionate Data Analyst with a knack for uncovering insights from complex datasets to help drive strategic decisions.
 
-<!---
-Yash11042/Yash11042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 I specialize in:
+
+-Data visualization ( Power BI, Matplotlib, Seaborn,Tableau)
+
+-Statistical analysis and hypothesis testing
+
+-Data cleaning and transformation (Pandas, SQL)
+
+-Predictive modeling and machine learning (Scikit-learn, TensorFlow)
+
+-Business intelligence and reporting
+
+🔍 I love working with raw data, transforming it into meaningful insights, and helping businesses or individuals make data-driven decisions. My approach combines technical expertise with a strong focus on problem-solving and storytelling through data.
+
+🔧 Tools & Technologies:
+
+Python, R, SQL
+Excel, Jupyter Notebooks, Tableau, Power BI
+Git & GitHub for version control
+🌱 Currently learning:
+
+Advanced machine learning techniques
+Data engineering principles
