@@ -1,7 +1,5 @@
-# 💫 About Me:
- Hi, I’m Yash Tiwari<br><br>I’m a Data Scientist & AI/ML Enthusiast passionate about transforming raw data into meaningful insights and building intelligent systems. I enjoy working across Python, SQL, Power BI, and Machine Learning, and I’m constantly exploring Generative AI, LangChain, LangGraph ,  RAG, and LLM-based applications.<br><br> What I Do<br><br> Data Analysis & Visualization (Python, Pandas, Power BI)<br><br> Machine Learning & Deep Learning Projects<br><br> Generative AI & LLM Apps (LangChain, LangGraph , Gemini, Hugging Face)<br><br> RAG Pipelines & AI Agent Workflows<br><br> End-to-end project development with documentation<br><br> Tech Stack<br><br>Python | Pandas | NumPy | Matplotlib | Seaborn | SQL | Power BI | Scikit-Learn | LangChain | Hugging Face | Gemini | FastAPI | Git<br><br> What You’ll Find in My GitHub<br><br>1. Data science projects with clean code and documentation<br><br>2. ML/DL model implementations<br><br>3. RAG & GenAI/LLM apps<br><br>4. Dashboards & analytics case studies<br><br> Goals<br><br>To become a full-stack AI + Data professional, build real-world intelligent applications, and share projects that help others learn.
-
-
+**Data Analyst** skilled in **Python**, **SQL**, and **Power BI**, focused on turning data into actionable insights through analysis and visualization.
+Currently exploring **Machine Learning** and **Generative AI** to build intelligent, data-driven applications.
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashTiwari11) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/461111) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwariyash7000@gmail.com) 
 
